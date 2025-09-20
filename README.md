@@ -219,7 +219,7 @@
                     <!-- Card Curso 1 -->
                     <div class="bg-[#161b22] border border-gray-800 rounded-lg overflow-hidden reveal glow-on-hover hover:-translate-y-2 transition-transform duration-300 relative">
                         <span class="absolute top-4 left-4 bg-brand-gold text-brand-dark text-xs font-bold px-3 py-1 rounded-full">MAIS VENDIDO</span>
-                        <img src="https://placehold.co/600x400/0d1117/d4af37?text=Curso+de+Perícia" alt="Imagem do Curso de Perícia" class="w-full h-48 object-cover">
+                        <img src="https://ibcappa.com.br/cursos/comunidade-pericia-trabalhista/" alt="Imagem do Curso de Perícia" class="w-full h-48 object-cover">
                         <div class="p-6">
                             <h3 class="text-xl font-bold text-white mb-2">Formação Completa em Perícia Judicial</h3>
                             <p class="text-gray-400 text-sm mb-4">Aprenda do zero ao avançado para se tornar um perito de sucesso.</p>
